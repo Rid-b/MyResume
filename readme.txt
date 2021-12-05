@@ -10,7 +10,7 @@ Technology Used: HTML & CSS
 Tools Used: VSCode studio, Google Chrome, Windows OS.
 
 Hosting: Using Github
-Link:
+Link: https://rid-b.github.io/MyResume/
 
 <html> tag contains two sections:
     
